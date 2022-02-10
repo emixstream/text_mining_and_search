@@ -1,0 +1,37 @@
+[(0,
+  '0.230*"coffee" + 0.044*"bean" + 0.027*"cup" + 0.020*"strong" + '
+  '0.019*"blend" + 0.017*"roast" + 0.016*"vanilla" + 0.015*"dark" + '
+  '0.015*"flavor" + 0.015*"brew"'),
+ (1,
+  '0.054*"sauce" + 0.040*"hot" + 0.026*"add" + 0.025*"soup" + 0.023*"salt" + '
+  '0.023*"cook" + 0.019*"pasta" + 0.019*"chicken" + 0.017*"spice" + '
+  '0.016*"rice"'),
+ (2,
+  '0.139*"food" + 0.081*"dog" + 0.046*"cat" + 0.035*"treat" + 0.027*"eat" + '
+  '0.020*"baby" + 0.018*"formula" + 0.018*"feed" + 0.011*"ingredient" + '
+  '0.011*"give"'),
+ (3,
+  '0.048*"taste" + 0.035*"flavor" + 0.024*"would" + 0.015*"try" + '
+  '0.013*"think" + 0.012*"really" + 0.011*"sugar" + 0.011*"say" + '
+  '0.011*"water" + 0.010*"much"'),
+ (4,
+  '0.020*"hair" + 0.018*"chew" + 0.017*"work" + 0.017*"use" + 0.015*"take" + '
+  '0.014*"day" + 0.013*"hour" + 0.013*"clean" + 0.011*"help" + 0.008*"leave"'),
+ (5,
+  '0.073*"cookie" + 0.055*"snack" + 0.035*"calorie" + 0.035*"eat" + '
+  '0.023*"popcorn" + 0.023*"fat" + 0.021*"healthy" + 0.019*"cracker" + '
+  '0.019*"protein" + 0.018*"chip"'),
+ (6,
+  '0.042*"order" + 0.035*"product" + 0.033*"bag" + 0.029*"box" + 0.027*"money" '
+  '+ 0.021*"package" + 0.019*"price" + 0.016*"purchase" + 0.015*"pack" + '
+  '0.014*"quality"'),
+ (7,
+  '0.254*"tea" + 0.097*"chocolate" + 0.028*"hot" + 0.027*"green" + '
+  '0.024*"drink" + 0.019*"ice" + 0.017*"bag" + 0.015*"milk" + 0.014*"dark" + '
+  '0.013*"black"'),
+ (8,
+  '0.036*"good" + 0.031*"love" + 0.029*"great" + 0.026*"buy" + 0.026*"find" + '
+  '0.022*"get" + 0.020*"make" + 0.017*"go" + 0.017*"try" + 0.016*"time"'),
+ (9,
+  '0.055*"use" + 0.051*"mix" + 0.040*"make" + 0.029*"milk" + 0.028*"oil" + '
+  '0.022*"add" + 0.017*"recipe" + 0.016*"bread" + 0.015*"bake" + 0.013*"cake"')]
